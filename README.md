@@ -1,2 +1,2 @@
-# Ortalama-Not
+# Java Ödevleri
 Patika Dev Java
