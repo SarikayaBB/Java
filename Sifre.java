@@ -28,7 +28,7 @@ public class Sifre {
                         password = yeniSifre;
                         System.out.println("Sifreniz degistirildi.");
                     }
-                } else if(reset.equals("Hayir")) {
+                } else if (reset.equals("Hayir")) {
                     System.out.println("Sifrenizi degistirmek istemiyorsunuz.");
                 } else {
                     System.out.println("Gecersiz islem.");
@@ -39,4 +39,3 @@ public class Sifre {
         }
     }
 }
-
